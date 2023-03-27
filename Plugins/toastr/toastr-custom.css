@@ -1,0 +1,12 @@
+/* Toastr Custom */
+#toast-container > div {
+    width: 100%;
+    opacity: 1;
+    border: 0;
+}
+#toast-container .toast-success{
+    color: #393937;
+    background-color: #DFF5DD;
+    background-image: url('icon-check.svg') !important;
+    background-size: 20px;
+}

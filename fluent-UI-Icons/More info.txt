@@ -1,0 +1,1 @@
+https://developer.microsoft.com/en-us/fluentui#/styles/web/icons#fabric-core
